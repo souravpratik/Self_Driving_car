@@ -52,10 +52,5 @@ python drive.py
 
 Now open your simulator in Autonomous mood & run yes!!🙂
 
-# Authors:
-```bash
-Author: Bappy Ahmed
-Data Scientist
-Email: entbappy73@gmail.com
-```
+
 
